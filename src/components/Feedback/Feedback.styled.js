@@ -18,7 +18,4 @@ export const Button = styled.button`
   &:hover {
     background-color: white;
   }
-  &:active {
-    color: red;
-  }
 `;
